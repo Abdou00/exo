@@ -3,8 +3,29 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="580dffc7-f742-45b8-8214-36cd7a68eef7" name="Default Changelist" comment="" />
+    <list default="true" id="580dffc7-f742-45b8-8214-36cd7a68eef7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exercice_8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +33,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kSFv1phkP7LkzslLT3JmDgaXay" />
   <component name="ProjectViewState">
@@ -38,7 +62,8 @@
       <workItem from="1607350975733" duration="4599000" />
       <workItem from="1607413773709" duration="19000" />
       <workItem from="1607440514737" duration="1604000" />
-      <workItem from="1607500085962" duration="7172000" />
+      <workItem from="1607500085962" duration="9521000" />
+      <workItem from="1607674009758" duration="1237000" />
     </task>
     <servers />
   </component>
@@ -48,7 +73,22 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607523164062">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1607523164062" />
     <state x="1926" y="193" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607353805970">
       <screen x="1440" y="0" width="1280" height="800" />
     </state>
@@ -57,15 +97,15 @@
       <screen x="1440" y="0" width="1280" height="800" />
     </state>
     <state x="1848" y="133" key="NewPhpClassDialog/0.0.1440.900/1440.0.1280.800@1440.0.1280.800" timestamp="1607351058036" />
-    <state x="521" y="371" key="NewPhpFileDialog" timestamp="1607500375864">
+    <state x="521" y="371" key="NewPhpFileDialog" timestamp="1607674025645">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="1903" y="330" key="NewPhpFileDialog/0.0.1440.900/1440.0.1280.800@1440.0.1280.800" timestamp="1607356517105" />
-    <state x="521" y="371" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1607500375864" />
-    <state x="343" y="140" width="754" height="761" key="search.everywhere.popup" timestamp="1607504374855">
+    <state x="521" y="371" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1607674025645" />
+    <state x="343" y="140" width="754" height="761" key="search.everywhere.popup" timestamp="1607509466751">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="1745" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1280.800@1440.0.1280.800" timestamp="1607501151248" />
-    <state x="343" y="140" width="754" height="761" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607504374855" />
+    <state x="343" y="140" width="754" height="761" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607509466751" />
   </component>
 </project>
